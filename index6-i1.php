@@ -1,0 +1,6 @@
+<?
+
+$color = 'red';
+$fruit = 'apple';
+
+?>
